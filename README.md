@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @quantprep
-- 👀 I’m interested in helping people break into quant finance.
-- 🌱 I’m currently writing about quant interviews. 
-- 📫 Feel free to subscribe to my substack! 
+- 👋 Hi, we're @quantprep - a group of students who have been through the quant recruiting process. 
+- 👀 We want to help students break into quant finance.
+- 🌱 We're currently writing about quant interviews. 
+- 📫 Feel free to subscribe to our substack! 
 
 <!---
 quantprep/quantprep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
