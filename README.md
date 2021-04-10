@@ -1,6 +1,6 @@
 - 👋 Hi, we're @quantprep - a group of students who have been through the quant recruiting process. 
 - 👀 We want to help students break into quant finance.
-- 🌱 We're currently writing about quant interviews. 
+- 🌱 We're collecting the best resources to ace quant interviews. 
 - 📫 Feel free to subscribe to our substack! 
 
 <!---
